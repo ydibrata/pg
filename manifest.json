@@ -1,0 +1,38 @@
+{
+  "name": "PROFESI GURU",
+  "short_name": "PG",
+  "start_url": "https://www.selintasinfoh.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#EAEAEA",
+  "description": "Blog yang membahas seputar informasi pendididikan dan media pembelajaran.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-8MfAQsl58i8/Wz4utKNmr6I/AAAAAAAAFMg/LuNueZHEHt8TUTvwNVo-fFg0tQkP9QergCLcBGAs/s1600/192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-8MfAQsl58i8/Wz4utKNmr6I/AAAAAAAAFMg/LuNueZHEHt8TUTvwNVo-fFg0tQkP9QergCLcBGAs/s1600/192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-8MfAQsl58i8/Wz4utKNmr6I/AAAAAAAAFMg/LuNueZHEHt8TUTvwNVo-fFg0tQkP9QergCLcBGAs/s1600/192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-8MfAQsl58i8/Wz4utKNmr6I/AAAAAAAAFMg/LuNueZHEHt8TUTvwNVo-fFg0tQkP9QergCLcBGAs/s1600/192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-8MfAQsl58i8/Wz4utKNmr6I/AAAAAAAAFMg/LuNueZHEHt8TUTvwNVo-fFg0tQkP9QergCLcBGAs/s1600/192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-8MfAQsl58i8/Wz4utKNmr6I/AAAAAAAAFMg/LuNueZHEHt8TUTvwNVo-fFg0tQkP9QergCLcBGAs/s1600/192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-8MfAQsl58i8/Wz4utKNmr6I/AAAAAAAAFMg/LuNueZHEHt8TUTvwNVo-fFg0tQkP9QergCLcBGAs/s1600/192x192.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
